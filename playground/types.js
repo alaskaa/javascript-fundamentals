@@ -48,7 +48,6 @@ console.log(`Each kids gets ${eachKidGets}`);
 const price = 1034;
 */
 
-
 /*
 const person = {
   first: 'wes',
@@ -79,10 +78,16 @@ teller.last = null;
 
 */
 
-let isDrawing = false;
-let age = 18;
-const ofAge = age > 19;
-console.log(ofAge);
+// let isDrawing = false;
+// let age = 18;
+// const ofAge = age > 19;
+// console.log(ofAge);
 
-age = 100;
-let age2 = 100;
+// age = 100;
+// let age2 = 100;
+
+// const person = {
+//   name: "sibylle",
+//   last: "sehl",
+//   age: 100
+// };
